@@ -1,4 +1,4 @@
-# Título: Recetario
+# Título: Simple y Delicioso - El gran libro de recetas 
 
 ## Tacos:
 ### Ingredientes:
