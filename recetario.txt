@@ -1,1 +1,13 @@
-# Título: Recetario
+#Título: Recetario
+
+## Pastel:
+### Ingredientes:
+
+- Harina
+- Azúcar
+- Huevos
+- Grasa
+- Ingredientes complementarios
+- Agente leudante
+- Saborizantes y extractos.
+- Sal
