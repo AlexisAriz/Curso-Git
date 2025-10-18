@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Título: Simple y Delicioso - El gran libro de recetas 
 
 ## Tacos:
@@ -15,3 +16,18 @@
 - Sal y pimienta
 - Cilantro
 - Aceite neutro
+=======
+#Título: Recetario
+
+## Pastel:
+### Ingredientes:
+
+- Harina
+- Azúcar
+- Huevos
+- Grasa
+- Ingredientes complementarios
+- Agente leudante
+- Saborizantes y extractos.
+- Sal
+>>>>>>> agregar-pastel
